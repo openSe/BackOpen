@@ -20,3 +20,4 @@ conexion.connect((error) => {
 });
 
 module.exports = conexion;
+
